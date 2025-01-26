@@ -8645,7 +8645,7 @@
                   children: (0, n.jsxs)("div", {
                      className: "relative w-full min-h-full pb-20 ".concat(c ? "bg-white" : "", " rounded-18 overflow-hidden"),
                      children: [(0, n.jsx)("div", {
-                        className: "absolute left-0 top-0 w-full h-full bg-dots bg-size-dots bg-repeat opacity-40 pointer-events-none"
+                        className: "absolute left-0 top-0 w-full h-full bg-repeat opacity-40 pointer-events-none"
                      }), (0, n.jsx)("div", {
                         className: "relative z-1",
                         children: d ? r : !w && r
@@ -9969,7 +9969,7 @@
                            className: "block xl:hidden mobile:block absolute top-0 left-0 w-full h-full rounded-13 overflow-hidden bg-white pointer-events-none",
                            ref: b,
                            children: (0, o.jsx)("div", {
-                              className: "absolute top-0 left-0 w-full h-full bg-dots bg-size-dots bg-repeat opacity-40"
+                              className: "absolute top-0 left-0 w-full h-full bg-repeat opacity-40"
                            })
                         }), (0, o.jsxs)("div", {
                            className: "flex items-center bg-white rounded-10 z-1 pointer-events-auto",

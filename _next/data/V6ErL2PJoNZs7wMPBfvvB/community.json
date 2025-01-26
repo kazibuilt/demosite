@@ -96,7 +96,7 @@
                     "secondTitle": "and we want\nto make it natural.",
                     "backgroundColor": {
                         "id": 251,
-                        "color": "Beige light"
+                        "color": "White"
                     },
                     "backgroundImage": {
                         "data": {
@@ -398,7 +398,7 @@
                     "smallSpacings": false,
                     "backgroundColor": {
                         "id": 252,
-                        "color": "Beige light"
+                        "color": "White"
                     }
                 },
                 {
@@ -484,7 +484,7 @@
                     },
                     "backgroundColor": {
                         "id": 253,
-                        "color": "Beige light"
+                        "color": "White"
                     },
                     "link": {
                         "id": 116,
@@ -510,7 +510,7 @@
                     "anchorName": null,
                     "backgroundColor": {
                         "id": 254,
-                        "color": "Beige light"
+                        "color": "White"
                     },
                     "link": {
                         "id": 117,
@@ -533,7 +533,7 @@
                     "__component": "content.posts",
                     "backgroundColor": {
                         "id": 255,
-                        "color": "Beige light"
+                        "color": "White"
                     }
                 }
             ]

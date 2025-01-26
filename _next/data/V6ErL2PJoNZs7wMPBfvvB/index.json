@@ -470,7 +470,7 @@
               "anchorName": null,
               "backgroundColor": {
                 "id": 220,
-                "color": "Beige light"
+                "color": "White"
               }
             },
             {
@@ -1023,7 +1023,7 @@
               "smallSpacings": false,
               "backgroundColor": {
                 "id": 221,
-                "color": "Beige light"
+                "color": "White"
               }
             },
             {
@@ -1032,7 +1032,7 @@
               "lastAnchorText": "And so much more",
               "backgroundColor": {
                 "id": 222,
-                "color": "Beige light"
+                "color": "White"
               },
               "items": [
                 {
@@ -1777,7 +1777,7 @@
               "anchorName": null,
               "backgroundColor": {
                 "id": 223,
-                "color": "Beige light"
+                "color": "White"
               }
             },
             {
@@ -2120,7 +2120,7 @@
               "smallSpacings": true,
               "backgroundColor": {
                 "id": 224,
-                "color": "Beige light"
+                "color": "White"
               }
             },
             {
@@ -2128,7 +2128,7 @@
               "__component": "content.credibility",
               "backgroundColor": {
                 "id": 225,
-                "color": "Beige light"
+                "color": "White"
               },
               "items": [
                 {
@@ -3408,7 +3408,7 @@
               "smallSpacings": false,
               "backgroundColor": {
                 "id": 226,
-                "color": "Beige light"
+                "color": "White"
               }
             },
             {
