@@ -37,7 +37,7 @@
                                 "formats": {
                                     "large": {
                                         "ext": ".jpg",
-                                        "url": "/public/imgs/large_Pebble_11_0a7b004e6a.jpg",
+                                        "url": "https://assets.pebblelife.com/large_Pebble_11_0a7b004e6a.jpg",
                                         "hash": "large_Pebble_11_0a7b004e6a",
                                         "mime": "image/jpeg",
                                         "name": "large_Pebble-11.jpg",
@@ -49,7 +49,7 @@
                                     },
                                     "small": {
                                         "ext": ".jpg",
-                                        "url": "/public/imgs/small_Pebble_11_0a7b004e6a.jpg",
+                                        "url": "https://assets.pebblelife.com/small_Pebble_11_0a7b004e6a.jpg",
                                         "hash": "small_Pebble_11_0a7b004e6a",
                                         "mime": "image/jpeg",
                                         "name": "small_Pebble-11.jpg",
@@ -61,7 +61,7 @@
                                     },
                                     "medium": {
                                         "ext": ".jpg",
-                                        "url": "/public/imgs/medium_Pebble_11_0a7b004e6a.jpg",
+                                        "url": "https://assets.pebblelife.com/medium_Pebble_11_0a7b004e6a.jpg",
                                         "hash": "medium_Pebble_11_0a7b004e6a",
                                         "mime": "image/jpeg",
                                         "name": "medium_Pebble-11.jpg",
@@ -73,7 +73,7 @@
                                     },
                                     "thumbnail": {
                                         "ext": ".jpg",
-                                        "url": "/public/imgs/thumbnail_Pebble_11_0a7b004e6a.jpg",
+                                        "url": "https://assets.pebblelife.com/thumbnail_Pebble_11_0a7b004e6a.jpg",
                                         "hash": "thumbnail_Pebble_11_0a7b004e6a",
                                         "mime": "image/jpeg",
                                         "name": "thumbnail_Pebble-11.jpg",
@@ -88,7 +88,7 @@
                                 "ext": ".jpg",
                                 "mime": "image/jpeg",
                                 "size": 548.08,
-                                "url": "/public/imgs/Pebble_11_0a7b004e6a.jpg",
+                                "url": "https://assets.pebblelife.com/Pebble_11_0a7b004e6a.jpg",
                                 "previewUrl": null,
                                 "provider": "aws-s3",
                                 "provider_metadata": null,
@@ -99,7 +99,7 @@
                     },
                     "backgroundColor": {
                         "id": 233,
-                        "color": "Beige dark"
+                        "color": "Beige light"
                     },
                     "foregroundColor": {
                         "id": 240,
@@ -117,7 +117,7 @@
                     "smallSpacings": false,
                     "backgroundColor": {
                         "id": 234,
-                        "color": "Beige dark"
+                        "color": "Beige light"
                     }
                 },
                 {
@@ -170,7 +170,7 @@
                                 "formats": {
                                     "large": {
                                         "ext": ".webp",
-                                        "url": "/public/imgs/large_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
+                                        "url": "https://assets.pebblelife.com/large_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
                                         "hash": "large_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d",
                                         "mime": "image/webp",
                                         "name": "large_ZtCfxkaF0TcGJhwN_PebbleNewHQGroupPhoto002.webp",
@@ -182,7 +182,7 @@
                                     },
                                     "small": {
                                         "ext": ".webp",
-                                        "url": "/public/imgs/small_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
+                                        "url": "https://assets.pebblelife.com/small_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
                                         "hash": "small_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d",
                                         "mime": "image/webp",
                                         "name": "small_ZtCfxkaF0TcGJhwN_PebbleNewHQGroupPhoto002.webp",
@@ -194,7 +194,7 @@
                                     },
                                     "medium": {
                                         "ext": ".webp",
-                                        "url": "/public/imgs/medium_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
+                                        "url": "https://assets.pebblelife.com/medium_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
                                         "hash": "medium_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d",
                                         "mime": "image/webp",
                                         "name": "medium_ZtCfxkaF0TcGJhwN_PebbleNewHQGroupPhoto002.webp",
@@ -206,7 +206,7 @@
                                     },
                                     "thumbnail": {
                                         "ext": ".webp",
-                                        "url": "/public/imgs/thumbnail_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
+                                        "url": "https://assets.pebblelife.com/thumbnail_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
                                         "hash": "thumbnail_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d",
                                         "mime": "image/webp",
                                         "name": "thumbnail_ZtCfxkaF0TcGJhwN_PebbleNewHQGroupPhoto002.webp",
@@ -221,7 +221,7 @@
                                 "ext": ".webp",
                                 "mime": "image/webp",
                                 "size": 1548.82,
-                                "url": "/public/imgs/Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
+                                "url": "https://assets.pebblelife.com/Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
                                 "previewUrl": null,
                                 "provider": "aws-s3",
                                 "provider_metadata": null,

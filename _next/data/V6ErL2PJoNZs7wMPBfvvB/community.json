@@ -27,7 +27,7 @@
                             "formats": {
                                 "large": {
                                     "ext": ".png",
-                                    "url": "/public/imgs/large_Community_Final_001_1236bfcfdd.png",
+                                    "url": "https://assets.pebblelife.com/large_Community_Final_001_1236bfcfdd.png",
                                     "hash": "large_Community_Final_001_1236bfcfdd",
                                     "mime": "image/png",
                                     "name": "large_Community Final 001.png",
@@ -39,7 +39,7 @@
                                 },
                                 "small": {
                                     "ext": ".png",
-                                    "url": "/public/imgs/small_Community_Final_001_1236bfcfdd.png",
+                                    "url": "https://assets.pebblelife.com/small_Community_Final_001_1236bfcfdd.png",
                                     "hash": "small_Community_Final_001_1236bfcfdd",
                                     "mime": "image/png",
                                     "name": "small_Community Final 001.png",
@@ -51,7 +51,7 @@
                                 },
                                 "medium": {
                                     "ext": ".png",
-                                    "url": "/public/imgs/medium_Community_Final_001_1236bfcfdd.png",
+                                    "url": "https://assets.pebblelife.com/medium_Community_Final_001_1236bfcfdd.png",
                                     "hash": "medium_Community_Final_001_1236bfcfdd",
                                     "mime": "image/png",
                                     "name": "medium_Community Final 001.png",
@@ -63,7 +63,7 @@
                                 },
                                 "thumbnail": {
                                     "ext": ".png",
-                                    "url": "/public/imgs/thumbnail_Community_Final_001_1236bfcfdd.png",
+                                    "url": "https://assets.pebblelife.com/thumbnail_Community_Final_001_1236bfcfdd.png",
                                     "hash": "thumbnail_Community_Final_001_1236bfcfdd",
                                     "mime": "image/png",
                                     "name": "thumbnail_Community Final 001.png",
@@ -78,7 +78,7 @@
                             "ext": ".png",
                             "mime": "image/png",
                             "size": 2631.97,
-                            "url": "/public/imgs/Community_Final_001_1236bfcfdd.png",
+                            "url": "https://assets.pebblelife.com/Community_Final_001_1236bfcfdd.png",
                             "previewUrl": null,
                             "provider": "aws-s3",
                             "provider_metadata": null,
@@ -96,7 +96,7 @@
                     "secondTitle": "and we want\nto make it natural.",
                     "backgroundColor": {
                         "id": 251,
-                        "color": "Beige dark"
+                        "color": "Beige light"
                     },
                     "backgroundImage": {
                         "data": {
@@ -110,7 +110,7 @@
                                 "formats": {
                                     "large": {
                                         "ext": ".png",
-                                        "url": "/public/imgs/large_Community_Final_001_1236bfcfdd.png",
+                                        "url": "https://assets.pebblelife.com/large_Community_Final_001_1236bfcfdd.png",
                                         "hash": "large_Community_Final_001_1236bfcfdd",
                                         "mime": "image/png",
                                         "name": "large_Community Final 001.png",
@@ -122,7 +122,7 @@
                                     },
                                     "small": {
                                         "ext": ".png",
-                                        "url": "/public/imgs/small_Community_Final_001_1236bfcfdd.png",
+                                        "url": "https://assets.pebblelife.com/small_Community_Final_001_1236bfcfdd.png",
                                         "hash": "small_Community_Final_001_1236bfcfdd",
                                         "mime": "image/png",
                                         "name": "small_Community Final 001.png",
@@ -134,7 +134,7 @@
                                     },
                                     "medium": {
                                         "ext": ".png",
-                                        "url": "/public/imgs/medium_Community_Final_001_1236bfcfdd.png",
+                                        "url": "https://assets.pebblelife.com/medium_Community_Final_001_1236bfcfdd.png",
                                         "hash": "medium_Community_Final_001_1236bfcfdd",
                                         "mime": "image/png",
                                         "name": "medium_Community Final 001.png",
@@ -146,7 +146,7 @@
                                     },
                                     "thumbnail": {
                                         "ext": ".png",
-                                        "url": "/public/imgs/thumbnail_Community_Final_001_1236bfcfdd.png",
+                                        "url": "https://assets.pebblelife.com/thumbnail_Community_Final_001_1236bfcfdd.png",
                                         "hash": "thumbnail_Community_Final_001_1236bfcfdd",
                                         "mime": "image/png",
                                         "name": "thumbnail_Community Final 001.png",
@@ -161,7 +161,7 @@
                                 "ext": ".png",
                                 "mime": "image/png",
                                 "size": 2631.97,
-                                "url": "/public/imgs/Community_Final_001_1236bfcfdd.png",
+                                "url": "https://assets.pebblelife.com/Community_Final_001_1236bfcfdd.png",
                                 "previewUrl": null,
                                 "provider": "aws-s3",
                                 "provider_metadata": null,
@@ -182,7 +182,7 @@
                                 "formats": {
                                     "large": {
                                         "ext": ".jpg",
-                                        "url": "/public/imgs/large_community_vt_98b93b1f85.jpg",
+                                        "url": "https://assets.pebblelife.com/large_community_vt_98b93b1f85.jpg",
                                         "hash": "large_community_vt_98b93b1f85",
                                         "mime": "image/jpeg",
                                         "name": "large_community vt.jpg",
@@ -194,7 +194,7 @@
                                     },
                                     "small": {
                                         "ext": ".jpg",
-                                        "url": "/public/imgs/small_community_vt_98b93b1f85.jpg",
+                                        "url": "https://assets.pebblelife.com/small_community_vt_98b93b1f85.jpg",
                                         "hash": "small_community_vt_98b93b1f85",
                                         "mime": "image/jpeg",
                                         "name": "small_community vt.jpg",
@@ -206,7 +206,7 @@
                                     },
                                     "medium": {
                                         "ext": ".jpg",
-                                        "url": "/public/imgs/medium_community_vt_98b93b1f85.jpg",
+                                        "url": "https://assets.pebblelife.com/medium_community_vt_98b93b1f85.jpg",
                                         "hash": "medium_community_vt_98b93b1f85",
                                         "mime": "image/jpeg",
                                         "name": "medium_community vt.jpg",
@@ -218,7 +218,7 @@
                                     },
                                     "thumbnail": {
                                         "ext": ".jpg",
-                                        "url": "/public/imgs/thumbnail_community_vt_98b93b1f85.jpg",
+                                        "url": "https://assets.pebblelife.com/thumbnail_community_vt_98b93b1f85.jpg",
                                         "hash": "thumbnail_community_vt_98b93b1f85",
                                         "mime": "image/jpeg",
                                         "name": "thumbnail_community vt.jpg",
@@ -233,7 +233,7 @@
                                 "ext": ".jpg",
                                 "mime": "image/jpeg",
                                 "size": 482.35,
-                                "url": "/public/imgs/community_vt_98b93b1f85.jpg",
+                                "url": "https://assets.pebblelife.com/community_vt_98b93b1f85.jpg",
                                 "previewUrl": null,
                                 "provider": "aws-s3",
                                 "provider_metadata": null,
@@ -254,7 +254,7 @@
                                 "formats": {
                                     "large": {
                                         "ext": ".png",
-                                        "url": "/public/imgs/large_Community_Foreground_Final_001_c9608f1272.png",
+                                        "url": "https://assets.pebblelife.com/large_Community_Foreground_Final_001_c9608f1272.png",
                                         "hash": "large_Community_Foreground_Final_001_c9608f1272",
                                         "mime": "image/png",
                                         "name": "large_Community Foreground Final 001.png",
@@ -266,7 +266,7 @@
                                     },
                                     "small": {
                                         "ext": ".png",
-                                        "url": "/public/imgs/small_Community_Foreground_Final_001_c9608f1272.png",
+                                        "url": "https://assets.pebblelife.com/small_Community_Foreground_Final_001_c9608f1272.png",
                                         "hash": "small_Community_Foreground_Final_001_c9608f1272",
                                         "mime": "image/png",
                                         "name": "small_Community Foreground Final 001.png",
@@ -278,7 +278,7 @@
                                     },
                                     "medium": {
                                         "ext": ".png",
-                                        "url": "/public/imgs/medium_Community_Foreground_Final_001_c9608f1272.png",
+                                        "url": "https://assets.pebblelife.com/medium_Community_Foreground_Final_001_c9608f1272.png",
                                         "hash": "medium_Community_Foreground_Final_001_c9608f1272",
                                         "mime": "image/png",
                                         "name": "medium_Community Foreground Final 001.png",
@@ -290,7 +290,7 @@
                                     },
                                     "thumbnail": {
                                         "ext": ".png",
-                                        "url": "/public/imgs/thumbnail_Community_Foreground_Final_001_c9608f1272.png",
+                                        "url": "https://assets.pebblelife.com/thumbnail_Community_Foreground_Final_001_c9608f1272.png",
                                         "hash": "thumbnail_Community_Foreground_Final_001_c9608f1272",
                                         "mime": "image/png",
                                         "name": "thumbnail_Community Foreground Final 001.png",
@@ -305,7 +305,7 @@
                                 "ext": ".png",
                                 "mime": "image/png",
                                 "size": 1000.11,
-                                "url": "/public/imgs/Community_Foreground_Final_001_c9608f1272.png",
+                                "url": "https://assets.pebblelife.com/Community_Foreground_Final_001_c9608f1272.png",
                                 "previewUrl": null,
                                 "provider": "aws-s3",
                                 "provider_metadata": null,
@@ -326,7 +326,7 @@
                                 "formats": {
                                     "large": {
                                         "ext": ".png",
-                                        "url": "/public/imgs/large_community_foreground_df9000c3ed.png",
+                                        "url": "https://assets.pebblelife.com/large_community_foreground_df9000c3ed.png",
                                         "hash": "large_community_foreground_df9000c3ed",
                                         "mime": "image/png",
                                         "name": "large_community_foreground.png",
@@ -338,7 +338,7 @@
                                     },
                                     "small": {
                                         "ext": ".png",
-                                        "url": "/public/imgs/small_community_foreground_df9000c3ed.png",
+                                        "url": "https://assets.pebblelife.com/small_community_foreground_df9000c3ed.png",
                                         "hash": "small_community_foreground_df9000c3ed",
                                         "mime": "image/png",
                                         "name": "small_community_foreground.png",
@@ -350,7 +350,7 @@
                                     },
                                     "medium": {
                                         "ext": ".png",
-                                        "url": "/public/imgs/medium_community_foreground_df9000c3ed.png",
+                                        "url": "https://assets.pebblelife.com/medium_community_foreground_df9000c3ed.png",
                                         "hash": "medium_community_foreground_df9000c3ed",
                                         "mime": "image/png",
                                         "name": "medium_community_foreground.png",
@@ -362,7 +362,7 @@
                                     },
                                     "thumbnail": {
                                         "ext": ".png",
-                                        "url": "/public/imgs/thumbnail_community_foreground_df9000c3ed.png",
+                                        "url": "https://assets.pebblelife.com/thumbnail_community_foreground_df9000c3ed.png",
                                         "hash": "thumbnail_community_foreground_df9000c3ed",
                                         "mime": "image/png",
                                         "name": "thumbnail_community_foreground.png",
@@ -377,7 +377,7 @@
                                 "ext": ".png",
                                 "mime": "image/png",
                                 "size": 705.34,
-                                "url": "/public/imgs/community_foreground_df9000c3ed.png",
+                                "url": "https://assets.pebblelife.com/community_foreground_df9000c3ed.png",
                                 "previewUrl": null,
                                 "provider": "aws-s3",
                                 "provider_metadata": null,
@@ -398,7 +398,7 @@
                     "smallSpacings": false,
                     "backgroundColor": {
                         "id": 252,
-                        "color": "Beige dark"
+                        "color": "Beige light"
                     }
                 },
                 {
@@ -419,7 +419,7 @@
                                 "formats": {
                                     "large": {
                                         "ext": ".jpg",
-                                        "url": "/public/imgs/large_Pebble_23_2d405a873e.jpg",
+                                        "url": "https://assets.pebblelife.com/large_Pebble_23_2d405a873e.jpg",
                                         "hash": "large_Pebble_23_2d405a873e",
                                         "mime": "image/jpeg",
                                         "name": "large_Pebble-23.jpg",
@@ -431,7 +431,7 @@
                                     },
                                     "small": {
                                         "ext": ".jpg",
-                                        "url": "/public/imgs/small_Pebble_23_2d405a873e.jpg",
+                                        "url": "https://assets.pebblelife.com/small_Pebble_23_2d405a873e.jpg",
                                         "hash": "small_Pebble_23_2d405a873e",
                                         "mime": "image/jpeg",
                                         "name": "small_Pebble-23.jpg",
@@ -443,7 +443,7 @@
                                     },
                                     "medium": {
                                         "ext": ".jpg",
-                                        "url": "/public/imgs/medium_Pebble_23_2d405a873e.jpg",
+                                        "url": "https://assets.pebblelife.com/medium_Pebble_23_2d405a873e.jpg",
                                         "hash": "medium_Pebble_23_2d405a873e",
                                         "mime": "image/jpeg",
                                         "name": "medium_Pebble-23.jpg",
@@ -455,7 +455,7 @@
                                     },
                                     "thumbnail": {
                                         "ext": ".jpg",
-                                        "url": "/public/imgs/thumbnail_Pebble_23_2d405a873e.jpg",
+                                        "url": "https://assets.pebblelife.com/thumbnail_Pebble_23_2d405a873e.jpg",
                                         "hash": "thumbnail_Pebble_23_2d405a873e",
                                         "mime": "image/jpeg",
                                         "name": "thumbnail_Pebble-23.jpg",
@@ -470,7 +470,7 @@
                                 "ext": ".jpg",
                                 "mime": "image/jpeg",
                                 "size": 1042.41,
-                                "url": "/public/imgs/Pebble_23_2d405a873e.jpg",
+                                "url": "https://assets.pebblelife.com/Pebble_23_2d405a873e.jpg",
                                 "previewUrl": null,
                                 "provider": "aws-s3",
                                 "provider_metadata": null,
@@ -889,7 +889,7 @@
                                     "formats": {
                                         "large": {
                                             "ext": ".png",
-                                            "url": "/public/imgs/large_Hero_Fern_4_K_copy_2_W_Badge_FINAL_001_copy_a1d8e45ee8.png",
+                                            "url": "https://assets.pebblelife.com/large_Hero_Fern_4_K_copy_2_W_Badge_FINAL_001_copy_a1d8e45ee8.png",
                                             "hash": "large_Hero_Fern_4_K_copy_2_W_Badge_FINAL_001_copy_a1d8e45ee8",
                                             "mime": "image/png",
                                             "name": "large_Hero_Fern_4K copy 2 W Badge FINAL 001 copy.png",
@@ -901,7 +901,7 @@
                                         },
                                         "small": {
                                             "ext": ".png",
-                                            "url": "/public/imgs/small_Hero_Fern_4_K_copy_2_W_Badge_FINAL_001_copy_a1d8e45ee8.png",
+                                            "url": "https://assets.pebblelife.com/small_Hero_Fern_4_K_copy_2_W_Badge_FINAL_001_copy_a1d8e45ee8.png",
                                             "hash": "small_Hero_Fern_4_K_copy_2_W_Badge_FINAL_001_copy_a1d8e45ee8",
                                             "mime": "image/png",
                                             "name": "small_Hero_Fern_4K copy 2 W Badge FINAL 001 copy.png",
@@ -913,7 +913,7 @@
                                         },
                                         "medium": {
                                             "ext": ".png",
-                                            "url": "/public/imgs/medium_Hero_Fern_4_K_copy_2_W_Badge_FINAL_001_copy_a1d8e45ee8.png",
+                                            "url": "https://assets.pebblelife.com/medium_Hero_Fern_4_K_copy_2_W_Badge_FINAL_001_copy_a1d8e45ee8.png",
                                             "hash": "medium_Hero_Fern_4_K_copy_2_W_Badge_FINAL_001_copy_a1d8e45ee8",
                                             "mime": "image/png",
                                             "name": "medium_Hero_Fern_4K copy 2 W Badge FINAL 001 copy.png",
@@ -925,7 +925,7 @@
                                         },
                                         "thumbnail": {
                                             "ext": ".png",
-                                            "url": "/public/imgs/thumbnail_Hero_Fern_4_K_copy_2_W_Badge_FINAL_001_copy_a1d8e45ee8.png",
+                                            "url": "https://assets.pebblelife.com/thumbnail_Hero_Fern_4_K_copy_2_W_Badge_FINAL_001_copy_a1d8e45ee8.png",
                                             "hash": "thumbnail_Hero_Fern_4_K_copy_2_W_Badge_FINAL_001_copy_a1d8e45ee8",
                                             "mime": "image/png",
                                             "name": "thumbnail_Hero_Fern_4K copy 2 W Badge FINAL 001 copy.png",
@@ -940,7 +940,7 @@
                                     "ext": ".png",
                                     "mime": "image/png",
                                     "size": 4227.91,
-                                    "url": "/public/imgs/Hero_Fern_4_K_copy_2_W_Badge_FINAL_001_copy_a1d8e45ee8.png",
+                                    "url": "https://assets.pebblelife.com/Hero_Fern_4_K_copy_2_W_Badge_FINAL_001_copy_a1d8e45ee8.png",
                                     "previewUrl": null,
                                     "provider": "aws-s3",
                                     "provider_metadata": null,
@@ -984,7 +984,7 @@
                                     "formats": {
                                         "large": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/large_Zi_Kq2v_Pdc1hu_Kp_Z7_Pebble_Flow_31_d04701896b.webp",
+                                            "url": "https://assets.pebblelife.com/large_Zi_Kq2v_Pdc1hu_Kp_Z7_Pebble_Flow_31_d04701896b.webp",
                                             "hash": "large_Zi_Kq2v_Pdc1hu_Kp_Z7_Pebble_Flow_31_d04701896b",
                                             "mime": "image/webp",
                                             "name": "large_ZiKq2vPdc1huKpZ7_PebbleFlow-31.webp",
@@ -996,7 +996,7 @@
                                         },
                                         "small": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/small_Zi_Kq2v_Pdc1hu_Kp_Z7_Pebble_Flow_31_d04701896b.webp",
+                                            "url": "https://assets.pebblelife.com/small_Zi_Kq2v_Pdc1hu_Kp_Z7_Pebble_Flow_31_d04701896b.webp",
                                             "hash": "small_Zi_Kq2v_Pdc1hu_Kp_Z7_Pebble_Flow_31_d04701896b",
                                             "mime": "image/webp",
                                             "name": "small_ZiKq2vPdc1huKpZ7_PebbleFlow-31.webp",
@@ -1008,7 +1008,7 @@
                                         },
                                         "medium": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/medium_Zi_Kq2v_Pdc1hu_Kp_Z7_Pebble_Flow_31_d04701896b.webp",
+                                            "url": "https://assets.pebblelife.com/medium_Zi_Kq2v_Pdc1hu_Kp_Z7_Pebble_Flow_31_d04701896b.webp",
                                             "hash": "medium_Zi_Kq2v_Pdc1hu_Kp_Z7_Pebble_Flow_31_d04701896b",
                                             "mime": "image/webp",
                                             "name": "medium_ZiKq2vPdc1huKpZ7_PebbleFlow-31.webp",
@@ -1020,7 +1020,7 @@
                                         },
                                         "thumbnail": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/thumbnail_Zi_Kq2v_Pdc1hu_Kp_Z7_Pebble_Flow_31_d04701896b.webp",
+                                            "url": "https://assets.pebblelife.com/thumbnail_Zi_Kq2v_Pdc1hu_Kp_Z7_Pebble_Flow_31_d04701896b.webp",
                                             "hash": "thumbnail_Zi_Kq2v_Pdc1hu_Kp_Z7_Pebble_Flow_31_d04701896b",
                                             "mime": "image/webp",
                                             "name": "thumbnail_ZiKq2vPdc1huKpZ7_PebbleFlow-31.webp",
@@ -1035,7 +1035,7 @@
                                     "ext": ".webp",
                                     "mime": "image/webp",
                                     "size": 1008.25,
-                                    "url": "/public/imgs/Zi_Kq2v_Pdc1hu_Kp_Z7_Pebble_Flow_31_d04701896b.webp",
+                                    "url": "https://assets.pebblelife.com/Zi_Kq2v_Pdc1hu_Kp_Z7_Pebble_Flow_31_d04701896b.webp",
                                     "previewUrl": null,
                                     "provider": "aws-s3",
                                     "provider_metadata": null,
@@ -1079,7 +1079,7 @@
                                     "formats": {
                                         "large": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/large_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
+                                            "url": "https://assets.pebblelife.com/large_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
                                             "hash": "large_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d",
                                             "mime": "image/webp",
                                             "name": "large_ZtCfxkaF0TcGJhwN_PebbleNewHQGroupPhoto002.webp",
@@ -1091,7 +1091,7 @@
                                         },
                                         "small": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/small_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
+                                            "url": "https://assets.pebblelife.com/small_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
                                             "hash": "small_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d",
                                             "mime": "image/webp",
                                             "name": "small_ZtCfxkaF0TcGJhwN_PebbleNewHQGroupPhoto002.webp",
@@ -1103,7 +1103,7 @@
                                         },
                                         "medium": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/medium_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
+                                            "url": "https://assets.pebblelife.com/medium_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
                                             "hash": "medium_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d",
                                             "mime": "image/webp",
                                             "name": "medium_ZtCfxkaF0TcGJhwN_PebbleNewHQGroupPhoto002.webp",
@@ -1115,7 +1115,7 @@
                                         },
                                         "thumbnail": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/thumbnail_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
+                                            "url": "https://assets.pebblelife.com/thumbnail_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
                                             "hash": "thumbnail_Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d",
                                             "mime": "image/webp",
                                             "name": "thumbnail_ZtCfxkaF0TcGJhwN_PebbleNewHQGroupPhoto002.webp",
@@ -1130,7 +1130,7 @@
                                     "ext": ".webp",
                                     "mime": "image/webp",
                                     "size": 1548.82,
-                                    "url": "/public/imgs/Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
+                                    "url": "https://assets.pebblelife.com/Zt_Cfxka_F0_Tc_G_Jhw_N_Pebble_New_HQ_Group_Photo002_1c6240080d.webp",
                                     "previewUrl": null,
                                     "provider": "aws-s3",
                                     "provider_metadata": null,
@@ -1174,7 +1174,7 @@
                                     "formats": {
                                         "large": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/large_Zj_F_Qs_EM_Tz_AJO_Cd_Nu_240313_CYBR_Easy_Tow_Still_01_03_14_20_9268b19415.webp",
+                                            "url": "https://assets.pebblelife.com/large_Zj_F_Qs_EM_Tz_AJO_Cd_Nu_240313_CYBR_Easy_Tow_Still_01_03_14_20_9268b19415.webp",
                                             "hash": "large_Zj_F_Qs_EM_Tz_AJO_Cd_Nu_240313_CYBR_Easy_Tow_Still_01_03_14_20_9268b19415",
                                             "mime": "image/webp",
                                             "name": "large_ZjFQsEMTzAJOCdNu_240313CYBR_EasyTowStill_01_03_14_20.webp",
@@ -1186,7 +1186,7 @@
                                         },
                                         "small": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/small_Zj_F_Qs_EM_Tz_AJO_Cd_Nu_240313_CYBR_Easy_Tow_Still_01_03_14_20_9268b19415.webp",
+                                            "url": "https://assets.pebblelife.com/small_Zj_F_Qs_EM_Tz_AJO_Cd_Nu_240313_CYBR_Easy_Tow_Still_01_03_14_20_9268b19415.webp",
                                             "hash": "small_Zj_F_Qs_EM_Tz_AJO_Cd_Nu_240313_CYBR_Easy_Tow_Still_01_03_14_20_9268b19415",
                                             "mime": "image/webp",
                                             "name": "small_ZjFQsEMTzAJOCdNu_240313CYBR_EasyTowStill_01_03_14_20.webp",
@@ -1198,7 +1198,7 @@
                                         },
                                         "medium": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/medium_Zj_F_Qs_EM_Tz_AJO_Cd_Nu_240313_CYBR_Easy_Tow_Still_01_03_14_20_9268b19415.webp",
+                                            "url": "https://assets.pebblelife.com/medium_Zj_F_Qs_EM_Tz_AJO_Cd_Nu_240313_CYBR_Easy_Tow_Still_01_03_14_20_9268b19415.webp",
                                             "hash": "medium_Zj_F_Qs_EM_Tz_AJO_Cd_Nu_240313_CYBR_Easy_Tow_Still_01_03_14_20_9268b19415",
                                             "mime": "image/webp",
                                             "name": "medium_ZjFQsEMTzAJOCdNu_240313CYBR_EasyTowStill_01_03_14_20.webp",
@@ -1210,7 +1210,7 @@
                                         },
                                         "thumbnail": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/thumbnail_Zj_F_Qs_EM_Tz_AJO_Cd_Nu_240313_CYBR_Easy_Tow_Still_01_03_14_20_9268b19415.webp",
+                                            "url": "https://assets.pebblelife.com/thumbnail_Zj_F_Qs_EM_Tz_AJO_Cd_Nu_240313_CYBR_Easy_Tow_Still_01_03_14_20_9268b19415.webp",
                                             "hash": "thumbnail_Zj_F_Qs_EM_Tz_AJO_Cd_Nu_240313_CYBR_Easy_Tow_Still_01_03_14_20_9268b19415",
                                             "mime": "image/webp",
                                             "name": "thumbnail_ZjFQsEMTzAJOCdNu_240313CYBR_EasyTowStill_01_03_14_20.webp",
@@ -1225,7 +1225,7 @@
                                     "ext": ".webp",
                                     "mime": "image/webp",
                                     "size": 90.66,
-                                    "url": "/public/imgs/Zj_F_Qs_EM_Tz_AJO_Cd_Nu_240313_CYBR_Easy_Tow_Still_01_03_14_20_9268b19415.webp",
+                                    "url": "https://assets.pebblelife.com/Zj_F_Qs_EM_Tz_AJO_Cd_Nu_240313_CYBR_Easy_Tow_Still_01_03_14_20_9268b19415.webp",
                                     "previewUrl": null,
                                     "provider": "aws-s3",
                                     "provider_metadata": null,
@@ -1272,7 +1272,7 @@
                                     "formats": {
                                         "large": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/large_6528ae0bfbd9a45bcec81554_Pebble_4_Ext_Colors001_BLUE_c81569aed7.webp",
+                                            "url": "https://assets.pebblelife.com/large_6528ae0bfbd9a45bcec81554_Pebble_4_Ext_Colors001_BLUE_c81569aed7.webp",
                                             "hash": "large_6528ae0bfbd9a45bcec81554_Pebble_4_Ext_Colors001_BLUE_c81569aed7",
                                             "mime": "image/webp",
                                             "name": "large_6528ae0bfbd9a45bcec81554_Pebble-4ExtColors001BLUE.webp",
@@ -1284,7 +1284,7 @@
                                         },
                                         "small": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/small_6528ae0bfbd9a45bcec81554_Pebble_4_Ext_Colors001_BLUE_c81569aed7.webp",
+                                            "url": "https://assets.pebblelife.com/small_6528ae0bfbd9a45bcec81554_Pebble_4_Ext_Colors001_BLUE_c81569aed7.webp",
                                             "hash": "small_6528ae0bfbd9a45bcec81554_Pebble_4_Ext_Colors001_BLUE_c81569aed7",
                                             "mime": "image/webp",
                                             "name": "small_6528ae0bfbd9a45bcec81554_Pebble-4ExtColors001BLUE.webp",
@@ -1296,7 +1296,7 @@
                                         },
                                         "medium": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/medium_6528ae0bfbd9a45bcec81554_Pebble_4_Ext_Colors001_BLUE_c81569aed7.webp",
+                                            "url": "https://assets.pebblelife.com/medium_6528ae0bfbd9a45bcec81554_Pebble_4_Ext_Colors001_BLUE_c81569aed7.webp",
                                             "hash": "medium_6528ae0bfbd9a45bcec81554_Pebble_4_Ext_Colors001_BLUE_c81569aed7",
                                             "mime": "image/webp",
                                             "name": "medium_6528ae0bfbd9a45bcec81554_Pebble-4ExtColors001BLUE.webp",
@@ -1308,7 +1308,7 @@
                                         },
                                         "thumbnail": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/thumbnail_6528ae0bfbd9a45bcec81554_Pebble_4_Ext_Colors001_BLUE_c81569aed7.webp",
+                                            "url": "https://assets.pebblelife.com/thumbnail_6528ae0bfbd9a45bcec81554_Pebble_4_Ext_Colors001_BLUE_c81569aed7.webp",
                                             "hash": "thumbnail_6528ae0bfbd9a45bcec81554_Pebble_4_Ext_Colors001_BLUE_c81569aed7",
                                             "mime": "image/webp",
                                             "name": "thumbnail_6528ae0bfbd9a45bcec81554_Pebble-4ExtColors001BLUE.webp",
@@ -1323,7 +1323,7 @@
                                     "ext": ".webp",
                                     "mime": "image/webp",
                                     "size": 620.99,
-                                    "url": "/public/imgs/6528ae0bfbd9a45bcec81554_Pebble_4_Ext_Colors001_BLUE_c81569aed7.webp",
+                                    "url": "https://assets.pebblelife.com/6528ae0bfbd9a45bcec81554_Pebble_4_Ext_Colors001_BLUE_c81569aed7.webp",
                                     "previewUrl": null,
                                     "provider": "aws-s3",
                                     "provider_metadata": null,
@@ -1367,7 +1367,7 @@
                                     "formats": {
                                         "large": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/large_65722f12531ac2845a25c9de_Pebble_43_Bcopy2_3f40d859f9.webp",
+                                            "url": "https://assets.pebblelife.com/large_65722f12531ac2845a25c9de_Pebble_43_Bcopy2_3f40d859f9.webp",
                                             "hash": "large_65722f12531ac2845a25c9de_Pebble_43_Bcopy2_3f40d859f9",
                                             "mime": "image/webp",
                                             "name": "large_65722f12531ac2845a25c9de_Pebble-43Bcopy2.webp",
@@ -1379,7 +1379,7 @@
                                         },
                                         "small": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/small_65722f12531ac2845a25c9de_Pebble_43_Bcopy2_3f40d859f9.webp",
+                                            "url": "https://assets.pebblelife.com/small_65722f12531ac2845a25c9de_Pebble_43_Bcopy2_3f40d859f9.webp",
                                             "hash": "small_65722f12531ac2845a25c9de_Pebble_43_Bcopy2_3f40d859f9",
                                             "mime": "image/webp",
                                             "name": "small_65722f12531ac2845a25c9de_Pebble-43Bcopy2.webp",
@@ -1391,7 +1391,7 @@
                                         },
                                         "medium": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/medium_65722f12531ac2845a25c9de_Pebble_43_Bcopy2_3f40d859f9.webp",
+                                            "url": "https://assets.pebblelife.com/medium_65722f12531ac2845a25c9de_Pebble_43_Bcopy2_3f40d859f9.webp",
                                             "hash": "medium_65722f12531ac2845a25c9de_Pebble_43_Bcopy2_3f40d859f9",
                                             "mime": "image/webp",
                                             "name": "medium_65722f12531ac2845a25c9de_Pebble-43Bcopy2.webp",
@@ -1403,7 +1403,7 @@
                                         },
                                         "thumbnail": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/thumbnail_65722f12531ac2845a25c9de_Pebble_43_Bcopy2_3f40d859f9.webp",
+                                            "url": "https://assets.pebblelife.com/thumbnail_65722f12531ac2845a25c9de_Pebble_43_Bcopy2_3f40d859f9.webp",
                                             "hash": "thumbnail_65722f12531ac2845a25c9de_Pebble_43_Bcopy2_3f40d859f9",
                                             "mime": "image/webp",
                                             "name": "thumbnail_65722f12531ac2845a25c9de_Pebble-43Bcopy2.webp",
@@ -1418,7 +1418,7 @@
                                     "ext": ".webp",
                                     "mime": "image/webp",
                                     "size": 3473.26,
-                                    "url": "/public/imgs/65722f12531ac2845a25c9de_Pebble_43_Bcopy2_3f40d859f9.webp",
+                                    "url": "https://assets.pebblelife.com/65722f12531ac2845a25c9de_Pebble_43_Bcopy2_3f40d859f9.webp",
                                     "previewUrl": null,
                                     "provider": "aws-s3",
                                     "provider_metadata": null,
@@ -1462,7 +1462,7 @@
                                     "formats": {
                                         "large": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/large_652b0e3cfbd9a45bcec81659_ss_2405bc3a13.webp",
+                                            "url": "https://assets.pebblelife.com/large_652b0e3cfbd9a45bcec81659_ss_2405bc3a13.webp",
                                             "hash": "large_652b0e3cfbd9a45bcec81659_ss_2405bc3a13",
                                             "mime": "image/webp",
                                             "name": "large_652b0e3cfbd9a45bcec81659_ss.webp",
@@ -1474,7 +1474,7 @@
                                         },
                                         "small": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/small_652b0e3cfbd9a45bcec81659_ss_2405bc3a13.webp",
+                                            "url": "https://assets.pebblelife.com/small_652b0e3cfbd9a45bcec81659_ss_2405bc3a13.webp",
                                             "hash": "small_652b0e3cfbd9a45bcec81659_ss_2405bc3a13",
                                             "mime": "image/webp",
                                             "name": "small_652b0e3cfbd9a45bcec81659_ss.webp",
@@ -1486,7 +1486,7 @@
                                         },
                                         "medium": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/medium_652b0e3cfbd9a45bcec81659_ss_2405bc3a13.webp",
+                                            "url": "https://assets.pebblelife.com/medium_652b0e3cfbd9a45bcec81659_ss_2405bc3a13.webp",
                                             "hash": "medium_652b0e3cfbd9a45bcec81659_ss_2405bc3a13",
                                             "mime": "image/webp",
                                             "name": "medium_652b0e3cfbd9a45bcec81659_ss.webp",
@@ -1498,7 +1498,7 @@
                                         },
                                         "thumbnail": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/thumbnail_652b0e3cfbd9a45bcec81659_ss_2405bc3a13.webp",
+                                            "url": "https://assets.pebblelife.com/thumbnail_652b0e3cfbd9a45bcec81659_ss_2405bc3a13.webp",
                                             "hash": "thumbnail_652b0e3cfbd9a45bcec81659_ss_2405bc3a13",
                                             "mime": "image/webp",
                                             "name": "thumbnail_652b0e3cfbd9a45bcec81659_ss.webp",
@@ -1513,7 +1513,7 @@
                                     "ext": ".webp",
                                     "mime": "image/webp",
                                     "size": 36.79,
-                                    "url": "/public/imgs/652b0e3cfbd9a45bcec81659_ss_2405bc3a13.webp",
+                                    "url": "https://assets.pebblelife.com/652b0e3cfbd9a45bcec81659_ss_2405bc3a13.webp",
                                     "previewUrl": null,
                                     "provider": "aws-s3",
                                     "provider_metadata": null,
@@ -1557,7 +1557,7 @@
                                     "formats": {
                                         "large": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/large_652dd7c4fbd9a45bcec81754_Hero_preorder_228b11b4f7.webp",
+                                            "url": "https://assets.pebblelife.com/large_652dd7c4fbd9a45bcec81754_Hero_preorder_228b11b4f7.webp",
                                             "hash": "large_652dd7c4fbd9a45bcec81754_Hero_preorder_228b11b4f7",
                                             "mime": "image/webp",
                                             "name": "large_652dd7c4fbd9a45bcec81754_Hero_preorder.webp",
@@ -1569,7 +1569,7 @@
                                         },
                                         "small": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/small_652dd7c4fbd9a45bcec81754_Hero_preorder_228b11b4f7.webp",
+                                            "url": "https://assets.pebblelife.com/small_652dd7c4fbd9a45bcec81754_Hero_preorder_228b11b4f7.webp",
                                             "hash": "small_652dd7c4fbd9a45bcec81754_Hero_preorder_228b11b4f7",
                                             "mime": "image/webp",
                                             "name": "small_652dd7c4fbd9a45bcec81754_Hero_preorder.webp",
@@ -1581,7 +1581,7 @@
                                         },
                                         "medium": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/medium_652dd7c4fbd9a45bcec81754_Hero_preorder_228b11b4f7.webp",
+                                            "url": "https://assets.pebblelife.com/medium_652dd7c4fbd9a45bcec81754_Hero_preorder_228b11b4f7.webp",
                                             "hash": "medium_652dd7c4fbd9a45bcec81754_Hero_preorder_228b11b4f7",
                                             "mime": "image/webp",
                                             "name": "medium_652dd7c4fbd9a45bcec81754_Hero_preorder.webp",
@@ -1593,7 +1593,7 @@
                                         },
                                         "thumbnail": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/thumbnail_652dd7c4fbd9a45bcec81754_Hero_preorder_228b11b4f7.webp",
+                                            "url": "https://assets.pebblelife.com/thumbnail_652dd7c4fbd9a45bcec81754_Hero_preorder_228b11b4f7.webp",
                                             "hash": "thumbnail_652dd7c4fbd9a45bcec81754_Hero_preorder_228b11b4f7",
                                             "mime": "image/webp",
                                             "name": "thumbnail_652dd7c4fbd9a45bcec81754_Hero_preorder.webp",
@@ -1608,7 +1608,7 @@
                                     "ext": ".webp",
                                     "mime": "image/webp",
                                     "size": 555,
-                                    "url": "/public/imgs/652dd7c4fbd9a45bcec81754_Hero_preorder_228b11b4f7.webp",
+                                    "url": "https://assets.pebblelife.com/652dd7c4fbd9a45bcec81754_Hero_preorder_228b11b4f7.webp",
                                     "previewUrl": null,
                                     "provider": "aws-s3",
                                     "provider_metadata": null,
@@ -1652,7 +1652,7 @@
                                     "formats": {
                                         "large": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/large_652e2fdafbd9a45bcec81767_Pebble_17copy3_fd099c8061.webp",
+                                            "url": "https://assets.pebblelife.com/large_652e2fdafbd9a45bcec81767_Pebble_17copy3_fd099c8061.webp",
                                             "hash": "large_652e2fdafbd9a45bcec81767_Pebble_17copy3_fd099c8061",
                                             "mime": "image/webp",
                                             "name": "large_652e2fdafbd9a45bcec81767_Pebble-17copy3.webp",
@@ -1664,7 +1664,7 @@
                                         },
                                         "small": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/small_652e2fdafbd9a45bcec81767_Pebble_17copy3_fd099c8061.webp",
+                                            "url": "https://assets.pebblelife.com/small_652e2fdafbd9a45bcec81767_Pebble_17copy3_fd099c8061.webp",
                                             "hash": "small_652e2fdafbd9a45bcec81767_Pebble_17copy3_fd099c8061",
                                             "mime": "image/webp",
                                             "name": "small_652e2fdafbd9a45bcec81767_Pebble-17copy3.webp",
@@ -1676,7 +1676,7 @@
                                         },
                                         "medium": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/medium_652e2fdafbd9a45bcec81767_Pebble_17copy3_fd099c8061.webp",
+                                            "url": "https://assets.pebblelife.com/medium_652e2fdafbd9a45bcec81767_Pebble_17copy3_fd099c8061.webp",
                                             "hash": "medium_652e2fdafbd9a45bcec81767_Pebble_17copy3_fd099c8061",
                                             "mime": "image/webp",
                                             "name": "medium_652e2fdafbd9a45bcec81767_Pebble-17copy3.webp",
@@ -1688,7 +1688,7 @@
                                         },
                                         "thumbnail": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/thumbnail_652e2fdafbd9a45bcec81767_Pebble_17copy3_fd099c8061.webp",
+                                            "url": "https://assets.pebblelife.com/thumbnail_652e2fdafbd9a45bcec81767_Pebble_17copy3_fd099c8061.webp",
                                             "hash": "thumbnail_652e2fdafbd9a45bcec81767_Pebble_17copy3_fd099c8061",
                                             "mime": "image/webp",
                                             "name": "thumbnail_652e2fdafbd9a45bcec81767_Pebble-17copy3.webp",
@@ -1703,7 +1703,7 @@
                                     "ext": ".webp",
                                     "mime": "image/webp",
                                     "size": 138.36,
-                                    "url": "/public/imgs/652e2fdafbd9a45bcec81767_Pebble_17copy3_fd099c8061.webp",
+                                    "url": "https://assets.pebblelife.com/652e2fdafbd9a45bcec81767_Pebble_17copy3_fd099c8061.webp",
                                     "previewUrl": null,
                                     "provider": "aws-s3",
                                     "provider_metadata": null,
@@ -1747,7 +1747,7 @@
                                     "formats": {
                                         "large": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/large_652e900efbd9a45bcec817b4_Blog1_title_687dd29038.webp",
+                                            "url": "https://assets.pebblelife.com/large_652e900efbd9a45bcec817b4_Blog1_title_687dd29038.webp",
                                             "hash": "large_652e900efbd9a45bcec817b4_Blog1_title_687dd29038",
                                             "mime": "image/webp",
                                             "name": "large_652e900efbd9a45bcec817b4_Blog1_title.webp",
@@ -1759,7 +1759,7 @@
                                         },
                                         "small": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/small_652e900efbd9a45bcec817b4_Blog1_title_687dd29038.webp",
+                                            "url": "https://assets.pebblelife.com/small_652e900efbd9a45bcec817b4_Blog1_title_687dd29038.webp",
                                             "hash": "small_652e900efbd9a45bcec817b4_Blog1_title_687dd29038",
                                             "mime": "image/webp",
                                             "name": "small_652e900efbd9a45bcec817b4_Blog1_title.webp",
@@ -1771,7 +1771,7 @@
                                         },
                                         "medium": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/medium_652e900efbd9a45bcec817b4_Blog1_title_687dd29038.webp",
+                                            "url": "https://assets.pebblelife.com/medium_652e900efbd9a45bcec817b4_Blog1_title_687dd29038.webp",
                                             "hash": "medium_652e900efbd9a45bcec817b4_Blog1_title_687dd29038",
                                             "mime": "image/webp",
                                             "name": "medium_652e900efbd9a45bcec817b4_Blog1_title.webp",
@@ -1783,7 +1783,7 @@
                                         },
                                         "thumbnail": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/thumbnail_652e900efbd9a45bcec817b4_Blog1_title_687dd29038.webp",
+                                            "url": "https://assets.pebblelife.com/thumbnail_652e900efbd9a45bcec817b4_Blog1_title_687dd29038.webp",
                                             "hash": "thumbnail_652e900efbd9a45bcec817b4_Blog1_title_687dd29038",
                                             "mime": "image/webp",
                                             "name": "thumbnail_652e900efbd9a45bcec817b4_Blog1_title.webp",
@@ -1798,7 +1798,7 @@
                                     "ext": ".webp",
                                     "mime": "image/webp",
                                     "size": 117.68,
-                                    "url": "/public/imgs/652e900efbd9a45bcec817b4_Blog1_title_687dd29038.webp",
+                                    "url": "https://assets.pebblelife.com/652e900efbd9a45bcec817b4_Blog1_title_687dd29038.webp",
                                     "previewUrl": null,
                                     "provider": "aws-s3",
                                     "provider_metadata": null,
@@ -1842,7 +1842,7 @@
                                     "formats": {
                                         "large": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/large_652e90fffbd9a45bcec817ba_Blog3_image2_9a323ce3c1.webp",
+                                            "url": "https://assets.pebblelife.com/large_652e90fffbd9a45bcec817ba_Blog3_image2_9a323ce3c1.webp",
                                             "hash": "large_652e90fffbd9a45bcec817ba_Blog3_image2_9a323ce3c1",
                                             "mime": "image/webp",
                                             "name": "large_652e90fffbd9a45bcec817ba_Blog3_image2.webp",
@@ -1854,7 +1854,7 @@
                                         },
                                         "small": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/small_652e90fffbd9a45bcec817ba_Blog3_image2_9a323ce3c1.webp",
+                                            "url": "https://assets.pebblelife.com/small_652e90fffbd9a45bcec817ba_Blog3_image2_9a323ce3c1.webp",
                                             "hash": "small_652e90fffbd9a45bcec817ba_Blog3_image2_9a323ce3c1",
                                             "mime": "image/webp",
                                             "name": "small_652e90fffbd9a45bcec817ba_Blog3_image2.webp",
@@ -1866,7 +1866,7 @@
                                         },
                                         "medium": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/medium_652e90fffbd9a45bcec817ba_Blog3_image2_9a323ce3c1.webp",
+                                            "url": "https://assets.pebblelife.com/medium_652e90fffbd9a45bcec817ba_Blog3_image2_9a323ce3c1.webp",
                                             "hash": "medium_652e90fffbd9a45bcec817ba_Blog3_image2_9a323ce3c1",
                                             "mime": "image/webp",
                                             "name": "medium_652e90fffbd9a45bcec817ba_Blog3_image2.webp",
@@ -1878,7 +1878,7 @@
                                         },
                                         "thumbnail": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/thumbnail_652e90fffbd9a45bcec817ba_Blog3_image2_9a323ce3c1.webp",
+                                            "url": "https://assets.pebblelife.com/thumbnail_652e90fffbd9a45bcec817ba_Blog3_image2_9a323ce3c1.webp",
                                             "hash": "thumbnail_652e90fffbd9a45bcec817ba_Blog3_image2_9a323ce3c1",
                                             "mime": "image/webp",
                                             "name": "thumbnail_652e90fffbd9a45bcec817ba_Blog3_image2.webp",
@@ -1893,7 +1893,7 @@
                                     "ext": ".webp",
                                     "mime": "image/webp",
                                     "size": 163.14,
-                                    "url": "/public/imgs/652e90fffbd9a45bcec817ba_Blog3_image2_9a323ce3c1.webp",
+                                    "url": "https://assets.pebblelife.com/652e90fffbd9a45bcec817ba_Blog3_image2_9a323ce3c1.webp",
                                     "previewUrl": null,
                                     "provider": "aws-s3",
                                     "provider_metadata": null,
@@ -1937,7 +1937,7 @@
                                     "formats": {
                                         "large": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/large_6528ffabfbd9a45bcec81585_Pebble_18copy_15c1a756f8.webp",
+                                            "url": "https://assets.pebblelife.com/large_6528ffabfbd9a45bcec81585_Pebble_18copy_15c1a756f8.webp",
                                             "hash": "large_6528ffabfbd9a45bcec81585_Pebble_18copy_15c1a756f8",
                                             "mime": "image/webp",
                                             "name": "large_6528ffabfbd9a45bcec81585_Pebble-18copy.webp",
@@ -1949,7 +1949,7 @@
                                         },
                                         "small": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/small_6528ffabfbd9a45bcec81585_Pebble_18copy_15c1a756f8.webp",
+                                            "url": "https://assets.pebblelife.com/small_6528ffabfbd9a45bcec81585_Pebble_18copy_15c1a756f8.webp",
                                             "hash": "small_6528ffabfbd9a45bcec81585_Pebble_18copy_15c1a756f8",
                                             "mime": "image/webp",
                                             "name": "small_6528ffabfbd9a45bcec81585_Pebble-18copy.webp",
@@ -1961,7 +1961,7 @@
                                         },
                                         "medium": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/medium_6528ffabfbd9a45bcec81585_Pebble_18copy_15c1a756f8.webp",
+                                            "url": "https://assets.pebblelife.com/medium_6528ffabfbd9a45bcec81585_Pebble_18copy_15c1a756f8.webp",
                                             "hash": "medium_6528ffabfbd9a45bcec81585_Pebble_18copy_15c1a756f8",
                                             "mime": "image/webp",
                                             "name": "medium_6528ffabfbd9a45bcec81585_Pebble-18copy.webp",
@@ -1973,7 +1973,7 @@
                                         },
                                         "thumbnail": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/thumbnail_6528ffabfbd9a45bcec81585_Pebble_18copy_15c1a756f8.webp",
+                                            "url": "https://assets.pebblelife.com/thumbnail_6528ffabfbd9a45bcec81585_Pebble_18copy_15c1a756f8.webp",
                                             "hash": "thumbnail_6528ffabfbd9a45bcec81585_Pebble_18copy_15c1a756f8",
                                             "mime": "image/webp",
                                             "name": "thumbnail_6528ffabfbd9a45bcec81585_Pebble-18copy.webp",
@@ -1988,7 +1988,7 @@
                                     "ext": ".webp",
                                     "mime": "image/webp",
                                     "size": 546.98,
-                                    "url": "/public/imgs/6528ffabfbd9a45bcec81585_Pebble_18copy_15c1a756f8.webp",
+                                    "url": "https://assets.pebblelife.com/6528ffabfbd9a45bcec81585_Pebble_18copy_15c1a756f8.webp",
                                     "previewUrl": null,
                                     "provider": "aws-s3",
                                     "provider_metadata": null,
@@ -2032,7 +2032,7 @@
                                     "formats": {
                                         "large": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/large_652e9088fbd9a45bcec817b8_Blog2_title_7a9abca145.webp",
+                                            "url": "https://assets.pebblelife.com/large_652e9088fbd9a45bcec817b8_Blog2_title_7a9abca145.webp",
                                             "hash": "large_652e9088fbd9a45bcec817b8_Blog2_title_7a9abca145",
                                             "mime": "image/webp",
                                             "name": "large_652e9088fbd9a45bcec817b8_Blog2_title.webp",
@@ -2044,7 +2044,7 @@
                                         },
                                         "small": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/small_652e9088fbd9a45bcec817b8_Blog2_title_7a9abca145.webp",
+                                            "url": "https://assets.pebblelife.com/small_652e9088fbd9a45bcec817b8_Blog2_title_7a9abca145.webp",
                                             "hash": "small_652e9088fbd9a45bcec817b8_Blog2_title_7a9abca145",
                                             "mime": "image/webp",
                                             "name": "small_652e9088fbd9a45bcec817b8_Blog2_title.webp",
@@ -2056,7 +2056,7 @@
                                         },
                                         "medium": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/medium_652e9088fbd9a45bcec817b8_Blog2_title_7a9abca145.webp",
+                                            "url": "https://assets.pebblelife.com/medium_652e9088fbd9a45bcec817b8_Blog2_title_7a9abca145.webp",
                                             "hash": "medium_652e9088fbd9a45bcec817b8_Blog2_title_7a9abca145",
                                             "mime": "image/webp",
                                             "name": "medium_652e9088fbd9a45bcec817b8_Blog2_title.webp",
@@ -2068,7 +2068,7 @@
                                         },
                                         "thumbnail": {
                                             "ext": ".webp",
-                                            "url": "/public/imgs/thumbnail_652e9088fbd9a45bcec817b8_Blog2_title_7a9abca145.webp",
+                                            "url": "https://assets.pebblelife.com/thumbnail_652e9088fbd9a45bcec817b8_Blog2_title_7a9abca145.webp",
                                             "hash": "thumbnail_652e9088fbd9a45bcec817b8_Blog2_title_7a9abca145",
                                             "mime": "image/webp",
                                             "name": "thumbnail_652e9088fbd9a45bcec817b8_Blog2_title.webp",
@@ -2083,7 +2083,7 @@
                                     "ext": ".webp",
                                     "mime": "image/webp",
                                     "size": 23.56,
-                                    "url": "/public/imgs/652e9088fbd9a45bcec817b8_Blog2_title_7a9abca145.webp",
+                                    "url": "https://assets.pebblelife.com/652e9088fbd9a45bcec817b8_Blog2_title_7a9abca145.webp",
                                     "previewUrl": null,
                                     "provider": "aws-s3",
                                     "provider_metadata": null,
