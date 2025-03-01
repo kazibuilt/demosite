@@ -10654,7 +10654,7 @@
          }
 
          function i(t) {
-            return t.startsWith("http") || t.startsWith("//") ? t : "".concat("https://assets.pebblelife.com").concat(t)
+            return t.startsWith("http") || t.startsWith("//") ? t : "".concat(t)
          }
          r.d(e, {
             $N: function () {
